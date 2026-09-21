@@ -31,3 +31,12 @@ Sensitive permissions require user consent. Accessibility, microphone, camera, c
 
 ### GitHub build
 Push this project to GitHub and run **Actions → Build PRIYA AI APK**. The workflow builds without API secrets.
+ DEVELOPER BY : ABISHEK BHUSAL 
+
+CONATACT : 9700197191
+
+EMAIL:abishekoffical3@gmail.com
+
+OFFICAL WEBSITE :https://ab-dev-studio-prov4.vercel.app/
+TIKTOK: abishekbhusal15
+OFFICAL PAGE: AB DEV STUDIO 
