@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PRIYA AI</string>
+    <string name="accessibility_description">PRIYA AI uses accessibility only when the user enables it, for screen reading and user-requested Android navigation actions.</string>
+</resources>
